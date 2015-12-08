@@ -1,0 +1,31 @@
+{
+  "name": "test-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckhendo/test-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckhendo/test-testing/issues"
+  },
+  "homepage": "https://github.com/chuckhendo/test-testing#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "karma": "^0.13.15",
+    "karma-browserify": "^4.4.2",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-mocha": "^0.2.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-sauce-launcher": "^0.3.0",
+    "mocha": "^2.3.4",
+    "phantomjs": "^1.9.19"
+  }
+}
